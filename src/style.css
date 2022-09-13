@@ -1,0 +1,11 @@
+.p-card--highlighted {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: space-between;
+  border-top: 3px solid #a87ca0;
+}
+
+.card-type {
+  text-transform: capitalize;
+}
